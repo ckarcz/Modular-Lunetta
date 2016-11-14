@@ -43,8 +43,13 @@
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
 <layer number="51" name="tDocu" color="26" fill="1" visible="no" active="no"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -55,6 +60,68 @@
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="99" name="SpiceOrder" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
+<layer number="101" name="Patch_Top" color="12" fill="4" visible="yes" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="103" name="fp3" color="7" fill="1" visible="no" active="yes"/>
+<layer number="104" name="Name" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="105" name="Beschreib" color="9" fill="1" visible="yes" active="yes"/>
+<layer number="106" name="BGA-Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="107" name="BD-Top" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="108" name="fp8" color="7" fill="1" visible="no" active="yes"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="no" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
+<layer number="111" name="LPC17xx" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="116" name="Patch_BOT" color="9" fill="4" visible="yes" active="yes"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="153" name="FabDoc1" color="6" fill="1" visible="no" active="no"/>
+<layer number="154" name="FabDoc2" color="2" fill="1" visible="no" active="no"/>
+<layer number="155" name="FabDoc3" color="7" fill="15" visible="no" active="no"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="201" name="201bmp" color="2" fill="1" visible="no" active="no"/>
+<layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
+<layer number="203" name="203bmp" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="204" name="204bmp" color="5" fill="10" visible="yes" active="yes"/>
+<layer number="205" name="205bmp" color="6" fill="10" visible="yes" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="10" visible="yes" active="yes"/>
+<layer number="207" name="207bmp" color="8" fill="10" visible="yes" active="yes"/>
+<layer number="208" name="208bmp" color="9" fill="10" visible="yes" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
+<layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
+<layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
+<layer number="220" name="220bmp" color="21" fill="1" visible="no" active="no"/>
+<layer number="221" name="221bmp" color="22" fill="1" visible="no" active="no"/>
+<layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
+<layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
+<layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="250" name="Descript" color="7" fill="1" visible="no" active="no"/>
+<layer number="251" name="SMDround" color="7" fill="1" visible="no" active="no"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
@@ -9246,6 +9313,125 @@ general purpose rectifier, 1 A</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="SRG">
+<description>Components Scott made</description>
+<packages>
+<package name="JST_B2B-PH_HEADER">
+<description>3-pin JST PH Shrouded Header &lt;br&gt;
+2.0mm pitch &lt;br&gt;
+P/N B3B-PH-K-S.  Mating plug PHR-3 &lt;br&gt;</description>
+<pad name="P2" x="-0.925" y="0.0475" drill="0.8" shape="long" rot="R90"/>
+<pad name="P1" x="1.075" y="0.0475" drill="0.8" shape="long" rot="R90"/>
+<wire x1="-2.875" y1="2.3825" x2="2.975" y2="2.3825" width="0.127" layer="21"/>
+<wire x1="2.975" y1="2.3825" x2="2.975" y2="-2.1175" width="0.127" layer="21"/>
+<wire x1="2.975" y1="-2.1175" x2="-2.875" y2="-2.1175" width="0.127" layer="21"/>
+<wire x1="-2.875" y1="-2.1175" x2="-2.875" y2="2.3825" width="0.127" layer="21"/>
+<text x="-2.925" y="2.6825" size="0.8128" layer="25" font="vector">&gt;NAME</text>
+<text x="0.875" y="-1.635" size="0.8128" layer="21" font="vector">1</text>
+<rectangle x1="-0.3175" y1="-2.06046875" x2="0.3175" y2="-1.42546875" layer="21"/>
+</package>
+<package name="JST_B5B-PH_HEADER">
+<description>5-pin JST PH Shrouded Header &lt;br&gt;
+2.0mm pitch &lt;br&gt;
+P/N B5B-PH-K-S.  Mating plug PHR-5 &lt;br&gt;</description>
+<pad name="P5" x="-4" y="0.0475" drill="0.8" shape="long" rot="R90"/>
+<pad name="P4" x="-2" y="0.0475" drill="0.8" shape="long" rot="R90"/>
+<pad name="P3" x="0" y="0.0475" drill="0.8" shape="long" rot="R90"/>
+<pad name="P2" x="2" y="0.0475" drill="0.8" shape="long" rot="R90"/>
+<pad name="P1" x="4" y="0.0475" drill="0.8" shape="long" rot="R90"/>
+<wire x1="-5.95" y1="2.3825" x2="5.9" y2="2.3825" width="0.127" layer="21"/>
+<wire x1="5.9" y1="2.3825" x2="5.9" y2="-2.1175" width="0.127" layer="21"/>
+<wire x1="5.9" y1="-2.1175" x2="-5.95" y2="-2.1175" width="0.127" layer="21"/>
+<wire x1="-5.95" y1="-2.1175" x2="-5.95" y2="2.3825" width="0.127" layer="21"/>
+<rectangle x1="-3" y1="-2.1175" x2="3" y2="-1.6175" layer="21"/>
+<text x="-2" y="2.6825" size="0.8128" layer="25" font="vector">&gt;NAME</text>
+<text x="3.8" y="-1.635" size="0.8128" layer="21" font="vector">1</text>
+</package>
+</packages>
+<symbols>
+<symbol name="JST_PHR-2">
+<description>2-pin JST PH Shrouded Header, top entry &lt;br&gt;
+P/N B2B-PH-K-S &lt;br&gt;
+Mating connector PHR-2 &lt;br&gt;</description>
+<pin name="1" x="-7.62" y="2.54" visible="pin" length="middle"/>
+<pin name="2" x="-7.62" y="0" visible="pin" length="middle"/>
+<text x="-5.08" y="5.842" size="1.27" layer="95" font="vector">&gt;NAME</text>
+<text x="-5.08" y="-4.318" size="1.27" layer="96" font="vector">&gt;VALUE</text>
+<wire x1="-5.08" y1="5.08" x2="2.54" y2="5.08" width="0.254" layer="94"/>
+<wire x1="2.54" y1="5.08" x2="2.54" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="2.54" y1="-2.54" x2="-5.08" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="-2.54" x2="-5.08" y2="5.08" width="0.254" layer="94"/>
+<circle x="-2.54" y="2.54" radius="0.915809375" width="0.254" layer="94"/>
+<circle x="-2.54" y="0" radius="0.915809375" width="0.254" layer="94"/>
+</symbol>
+<symbol name="JST_PHR-5">
+<description>5-pin JST PH Shrouded Header, top entry &lt;br&gt;
+P/N B5B-PH-K-S &lt;br&gt;
+Mating connector PHR-5 &lt;br&gt;</description>
+<pin name="1" x="-7.62" y="5.08" visible="pin" length="middle"/>
+<pin name="2" x="-7.62" y="2.54" visible="pin" length="middle"/>
+<pin name="3" x="-7.62" y="0" visible="pin" length="middle"/>
+<pin name="4" x="-7.62" y="-2.54" visible="pin" length="middle"/>
+<pin name="5" x="-7.62" y="-5.08" visible="pin" length="middle"/>
+<text x="-5.08" y="8.382" size="1.27" layer="95">&gt;NAME</text>
+<text x="-5.08" y="-9.398" size="1.27" layer="96">&gt;VALUE</text>
+<wire x1="-5.08" y1="7.62" x2="2.54" y2="7.62" width="0.254" layer="94"/>
+<wire x1="2.54" y1="7.62" x2="2.54" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="2.54" y1="-7.62" x2="-5.08" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="-7.62" x2="-5.08" y2="7.62" width="0.254" layer="94"/>
+<circle x="-2.54" y="5.08" radius="0.915809375" width="0.254" layer="94"/>
+<circle x="-2.54" y="2.54" radius="0.915809375" width="0.254" layer="94"/>
+<circle x="-2.54" y="0" radius="0.915809375" width="0.254" layer="94"/>
+<circle x="-2.54" y="-2.54" radius="0.915809375" width="0.254" layer="94"/>
+<circle x="-2.54" y="-5.08" radius="0.915809375" width="0.254" layer="94"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="JST-PH_2-PIN_HEADER">
+<description>2-pin JST PH Shrouded Header, top entry &lt;br&gt;
+P/N B2B-PH-K-S &lt;br&gt;
+Mating connector PHR-2 &lt;br&gt;
+Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/9914"&gt;PRT-09914&lt;/a&gt; &lt;br&gt;</description>
+<gates>
+<gate name="G$1" symbol="JST_PHR-2" x="0" y="-1.27"/>
+</gates>
+<devices>
+<device name="" package="JST_B2B-PH_HEADER">
+<connects>
+<connect gate="G$1" pin="1" pad="P1"/>
+<connect gate="G$1" pin="2" pad="P2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="JST-PH_5-PIN_HEADER">
+<description>5-pin JST PH Shrouded Header, top entry &lt;br&gt;
+P/N B5B-PH-K-S &lt;br&gt;
+Mating connector PHR-5 &lt;br&gt;
+Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/9917"&gt;PRT-09917&lt;/a&gt; &lt;br&gt;</description>
+<gates>
+<gate name="G$1" symbol="JST_PHR-5" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="JST_B5B-PH_HEADER">
+<connects>
+<connect gate="G$1" pin="1" pad="P1"/>
+<connect gate="G$1" pin="2" pad="P2"/>
+<connect gate="G$1" pin="3" pad="P3"/>
+<connect gate="G$1" pin="4" pad="P4"/>
+<connect gate="G$1" pin="5" pad="P5"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -9294,6 +9480,27 @@ general purpose rectifier, 1 A</description>
 <part name="D8" library="diode" deviceset="1N4004" device=""/>
 <part name="D9" library="diode" deviceset="1N4004" device=""/>
 <part name="D10" library="diode" deviceset="1N4004" device=""/>
+<part name="X1" library="SRG" deviceset="JST-PH_2-PIN_HEADER" device="" value="JST-XH-2PIN"/>
+<part name="X2" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X3" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X4" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X5" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X6" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X7" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X8" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X9" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X10" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X11" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X12" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X13" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X14" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X15" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X16" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X17" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X18" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X19" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X20" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
+<part name="X21" library="SRG" deviceset="JST-PH_5-PIN_HEADER" device="" value="JST-XH-5PIN"/>
 </parts>
 <sheets>
 <sheet>
@@ -9338,6 +9545,27 @@ general purpose rectifier, 1 A</description>
 <instance part="D8" gate="1" x="96.52" y="-15.24" rot="R90"/>
 <instance part="D9" gate="1" x="71.12" y="-45.72"/>
 <instance part="D10" gate="1" x="96.52" y="-30.48" rot="R90"/>
+<instance part="X1" gate="G$1" x="12.7" y="-106.68"/>
+<instance part="X2" gate="G$1" x="12.7" y="-124.46"/>
+<instance part="X3" gate="G$1" x="25.4" y="-124.46"/>
+<instance part="X4" gate="G$1" x="38.1" y="-124.46"/>
+<instance part="X5" gate="G$1" x="50.8" y="-124.46"/>
+<instance part="X6" gate="G$1" x="63.5" y="-124.46"/>
+<instance part="X7" gate="G$1" x="76.2" y="-124.46"/>
+<instance part="X8" gate="G$1" x="88.9" y="-124.46"/>
+<instance part="X9" gate="G$1" x="101.6" y="-124.46"/>
+<instance part="X10" gate="G$1" x="114.3" y="-124.46"/>
+<instance part="X11" gate="G$1" x="127" y="-124.46"/>
+<instance part="X12" gate="G$1" x="12.7" y="-147.32"/>
+<instance part="X13" gate="G$1" x="25.4" y="-147.32"/>
+<instance part="X14" gate="G$1" x="38.1" y="-147.32"/>
+<instance part="X15" gate="G$1" x="50.8" y="-147.32"/>
+<instance part="X16" gate="G$1" x="63.5" y="-147.32"/>
+<instance part="X17" gate="G$1" x="76.2" y="-147.32"/>
+<instance part="X18" gate="G$1" x="88.9" y="-147.32"/>
+<instance part="X19" gate="G$1" x="101.6" y="-147.32"/>
+<instance part="X20" gate="G$1" x="114.3" y="-147.32"/>
+<instance part="X21" gate="G$1" x="127" y="-147.32"/>
 </instances>
 <busses>
 </busses>
@@ -9453,6 +9681,49 @@ general purpose rectifier, 1 A</description>
 <pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="106.68" y1="-25.4" x2="106.68" y2="-22.86" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="X1" gate="G$1" pin="2"/>
+<wire x1="5.08" y1="-106.68" x2="2.54" y2="-106.68" width="0.1524" layer="91"/>
+<label x="-2.54" y="-106.68" size="1.778" layer="95"/>
+</segment>
+<segment>
+<wire x1="121.92" y1="-129.54" x2="2.54" y2="-129.54" width="0.1524" layer="91"/>
+<label x="-2.54" y="-129.54" size="1.778" layer="95"/>
+</segment>
+<segment>
+<wire x1="121.92" y1="-152.4" x2="119.38" y2="-152.4" width="0.1524" layer="91"/>
+<label x="-2.54" y="-152.4" size="1.778" layer="95"/>
+<pinref part="X12" gate="G$1" pin="5"/>
+<wire x1="119.38" y1="-152.4" x2="106.68" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="-152.4" x2="93.98" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-152.4" x2="81.28" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-152.4" x2="68.58" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-152.4" x2="55.88" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-152.4" x2="43.18" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-152.4" x2="30.48" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-152.4" x2="17.78" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-152.4" x2="5.08" y2="-152.4" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-152.4" x2="2.54" y2="-152.4" width="0.1524" layer="91"/>
+<junction x="5.08" y="-152.4"/>
+<pinref part="X13" gate="G$1" pin="5"/>
+<junction x="17.78" y="-152.4"/>
+<pinref part="X14" gate="G$1" pin="5"/>
+<junction x="30.48" y="-152.4"/>
+<pinref part="X15" gate="G$1" pin="5"/>
+<junction x="43.18" y="-152.4"/>
+<pinref part="X16" gate="G$1" pin="5"/>
+<junction x="55.88" y="-152.4"/>
+<pinref part="X17" gate="G$1" pin="5"/>
+<junction x="68.58" y="-152.4"/>
+<pinref part="X18" gate="G$1" pin="5"/>
+<junction x="81.28" y="-152.4"/>
+<pinref part="X19" gate="G$1" pin="5"/>
+<junction x="93.98" y="-152.4"/>
+<pinref part="X20" gate="G$1" pin="5"/>
+<junction x="106.68" y="-152.4"/>
+<pinref part="X21" gate="G$1" pin="5"/>
+<junction x="119.38" y="-152.4"/>
+</segment>
 </net>
 <net name="5V+" class="0">
 <segment>
@@ -9476,6 +9747,44 @@ general purpose rectifier, 1 A</description>
 <wire x1="119.38" y1="-55.88" x2="129.54" y2="-55.88" width="0.1524" layer="91"/>
 <label x="129.54" y="-55.88" size="1.778" layer="95"/>
 </segment>
+<segment>
+<wire x1="121.92" y1="-121.92" x2="2.54" y2="-121.92" width="0.1524" layer="91"/>
+<label x="-2.54" y="-121.92" size="1.778" layer="95"/>
+</segment>
+<segment>
+<wire x1="121.92" y1="-144.78" x2="119.38" y2="-144.78" width="0.1524" layer="91"/>
+<label x="-2.54" y="-144.78" size="1.778" layer="95"/>
+<pinref part="X12" gate="G$1" pin="2"/>
+<wire x1="119.38" y1="-144.78" x2="106.68" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="-144.78" x2="93.98" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-144.78" x2="81.28" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-144.78" x2="68.58" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-144.78" x2="55.88" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-144.78" x2="43.18" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-144.78" x2="30.48" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-144.78" x2="17.78" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-144.78" x2="5.08" y2="-144.78" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-144.78" x2="2.54" y2="-144.78" width="0.1524" layer="91"/>
+<junction x="5.08" y="-144.78"/>
+<pinref part="X13" gate="G$1" pin="2"/>
+<junction x="17.78" y="-144.78"/>
+<pinref part="X14" gate="G$1" pin="2"/>
+<junction x="30.48" y="-144.78"/>
+<pinref part="X15" gate="G$1" pin="2"/>
+<junction x="43.18" y="-144.78"/>
+<pinref part="X16" gate="G$1" pin="2"/>
+<junction x="55.88" y="-144.78"/>
+<pinref part="X17" gate="G$1" pin="2"/>
+<junction x="68.58" y="-144.78"/>
+<pinref part="X18" gate="G$1" pin="2"/>
+<junction x="81.28" y="-144.78"/>
+<pinref part="X19" gate="G$1" pin="2"/>
+<junction x="93.98" y="-144.78"/>
+<pinref part="X20" gate="G$1" pin="2"/>
+<junction x="106.68" y="-144.78"/>
+<pinref part="X21" gate="G$1" pin="2"/>
+<junction x="119.38" y="-144.78"/>
+</segment>
 </net>
 <net name="5V-" class="0">
 <segment>
@@ -9498,6 +9807,43 @@ general purpose rectifier, 1 A</description>
 <wire x1="129.54" y1="-60.96" x2="124.46" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="-60.96" x2="124.46" y2="-93.98" width="0.1524" layer="91"/>
 <label x="129.54" y="-60.96" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X11" gate="G$1" pin="1"/>
+<wire x1="119.38" y1="-119.38" x2="2.54" y2="-119.38" width="0.1524" layer="91"/>
+<label x="-2.54" y="-119.38" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X21" gate="G$1" pin="1"/>
+<wire x1="119.38" y1="-142.24" x2="106.68" y2="-142.24" width="0.1524" layer="91"/>
+<label x="-2.54" y="-142.24" size="1.778" layer="95"/>
+<pinref part="X12" gate="G$1" pin="1"/>
+<wire x1="106.68" y1="-142.24" x2="93.98" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-142.24" x2="81.28" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-142.24" x2="68.58" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-142.24" x2="55.88" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-142.24" x2="43.18" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-142.24" x2="30.48" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-142.24" x2="17.78" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-142.24" x2="5.08" y2="-142.24" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-142.24" x2="2.54" y2="-142.24" width="0.1524" layer="91"/>
+<junction x="5.08" y="-142.24"/>
+<pinref part="X13" gate="G$1" pin="1"/>
+<junction x="17.78" y="-142.24"/>
+<pinref part="X14" gate="G$1" pin="1"/>
+<junction x="30.48" y="-142.24"/>
+<pinref part="X15" gate="G$1" pin="1"/>
+<junction x="43.18" y="-142.24"/>
+<pinref part="X16" gate="G$1" pin="1"/>
+<junction x="55.88" y="-142.24"/>
+<pinref part="X17" gate="G$1" pin="1"/>
+<junction x="68.58" y="-142.24"/>
+<pinref part="X18" gate="G$1" pin="1"/>
+<junction x="81.28" y="-142.24"/>
+<pinref part="X19" gate="G$1" pin="1"/>
+<junction x="93.98" y="-142.24"/>
+<pinref part="X20" gate="G$1" pin="1"/>
+<junction x="106.68" y="-142.24"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -9574,6 +9920,43 @@ general purpose rectifier, 1 A</description>
 <wire x1="124.46" y1="-40.64" x2="129.54" y2="-40.64" width="0.1524" layer="91"/>
 <label x="129.54" y="-40.64" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="X11" gate="G$1" pin="4"/>
+<wire x1="119.38" y1="-127" x2="2.54" y2="-127" width="0.1524" layer="91"/>
+<label x="-2.54" y="-127" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X21" gate="G$1" pin="4"/>
+<wire x1="119.38" y1="-149.86" x2="106.68" y2="-149.86" width="0.1524" layer="91"/>
+<label x="-2.54" y="-149.86" size="1.778" layer="95"/>
+<pinref part="X12" gate="G$1" pin="4"/>
+<wire x1="106.68" y1="-149.86" x2="93.98" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-149.86" x2="81.28" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-149.86" x2="68.58" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-149.86" x2="55.88" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-149.86" x2="43.18" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-149.86" x2="30.48" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-149.86" x2="17.78" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-149.86" x2="5.08" y2="-149.86" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-149.86" x2="2.54" y2="-149.86" width="0.1524" layer="91"/>
+<junction x="5.08" y="-149.86"/>
+<pinref part="X13" gate="G$1" pin="4"/>
+<junction x="17.78" y="-149.86"/>
+<pinref part="X14" gate="G$1" pin="4"/>
+<junction x="30.48" y="-149.86"/>
+<pinref part="X15" gate="G$1" pin="4"/>
+<junction x="43.18" y="-149.86"/>
+<pinref part="X16" gate="G$1" pin="4"/>
+<junction x="55.88" y="-149.86"/>
+<pinref part="X17" gate="G$1" pin="4"/>
+<junction x="68.58" y="-149.86"/>
+<pinref part="X18" gate="G$1" pin="4"/>
+<junction x="81.28" y="-149.86"/>
+<pinref part="X19" gate="G$1" pin="4"/>
+<junction x="93.98" y="-149.86"/>
+<pinref part="X20" gate="G$1" pin="4"/>
+<junction x="106.68" y="-149.86"/>
+</segment>
 </net>
 <net name="9V-" class="0">
 <segment>
@@ -9596,6 +9979,44 @@ general purpose rectifier, 1 A</description>
 <pinref part="D9" gate="1" pin="C"/>
 <wire x1="73.66" y1="-45.72" x2="86.36" y2="-45.72" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="-45.72" x2="86.36" y2="-35.56" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<wire x1="121.92" y1="-124.46" x2="2.54" y2="-124.46" width="0.1524" layer="91"/>
+<label x="-2.54" y="-124.46" size="1.778" layer="95"/>
+</segment>
+<segment>
+<wire x1="121.92" y1="-147.32" x2="119.38" y2="-147.32" width="0.1524" layer="91"/>
+<label x="-2.54" y="-147.32" size="1.778" layer="95"/>
+<pinref part="X12" gate="G$1" pin="3"/>
+<wire x1="119.38" y1="-147.32" x2="106.68" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="-147.32" x2="93.98" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-147.32" x2="81.28" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-147.32" x2="68.58" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-147.32" x2="55.88" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-147.32" x2="43.18" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-147.32" x2="30.48" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-147.32" x2="17.78" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-147.32" x2="5.08" y2="-147.32" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-147.32" x2="2.54" y2="-147.32" width="0.1524" layer="91"/>
+<junction x="5.08" y="-147.32"/>
+<pinref part="X13" gate="G$1" pin="3"/>
+<junction x="17.78" y="-147.32"/>
+<pinref part="X14" gate="G$1" pin="3"/>
+<junction x="30.48" y="-147.32"/>
+<pinref part="X15" gate="G$1" pin="3"/>
+<junction x="43.18" y="-147.32"/>
+<pinref part="X16" gate="G$1" pin="3"/>
+<junction x="55.88" y="-147.32"/>
+<pinref part="X17" gate="G$1" pin="3"/>
+<junction x="68.58" y="-147.32"/>
+<pinref part="X18" gate="G$1" pin="3"/>
+<junction x="81.28" y="-147.32"/>
+<pinref part="X19" gate="G$1" pin="3"/>
+<junction x="93.98" y="-147.32"/>
+<pinref part="X20" gate="G$1" pin="3"/>
+<junction x="106.68" y="-147.32"/>
+<pinref part="X21" gate="G$1" pin="3"/>
+<junction x="119.38" y="-147.32"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -9661,10 +10082,67 @@ general purpose rectifier, 1 A</description>
 <junction x="-20.32" y="-48.26"/>
 <label x="-30.48" y="-48.26" size="1.778" layer="95"/>
 </segment>
+<segment>
+<wire x1="7.62" y1="-104.14" x2="5.08" y2="-104.14" width="0.1524" layer="91"/>
+<label x="-2.54" y="-104.14" size="1.778" layer="95"/>
+<pinref part="X1" gate="G$1" pin="1"/>
+<wire x1="5.08" y1="-104.14" x2="2.54" y2="-104.14" width="0.1524" layer="91"/>
+<junction x="5.08" y="-104.14"/>
+</segment>
 </net>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="111,1,7.62,-119.38,5V-,,,,,"/>
+<approved hash="111,1,7.62,-121.92,5V+,,,,,"/>
+<approved hash="111,1,7.62,-124.46,9V-,,,,,"/>
+<approved hash="111,1,7.62,-127,9V+,,,,,"/>
+<approved hash="111,1,7.62,-129.54,GND,,,,,"/>
+<approved hash="111,1,20.32,-119.38,5V-,,,,,"/>
+<approved hash="111,1,20.32,-121.92,5V+,,,,,"/>
+<approved hash="111,1,20.32,-124.46,9V-,,,,,"/>
+<approved hash="111,1,20.32,-127,9V+,,,,,"/>
+<approved hash="111,1,20.32,-129.54,GND,,,,,"/>
+<approved hash="111,1,33.02,-119.38,5V-,,,,,"/>
+<approved hash="111,1,33.02,-121.92,5V+,,,,,"/>
+<approved hash="111,1,33.02,-124.46,9V-,,,,,"/>
+<approved hash="111,1,33.02,-127,9V+,,,,,"/>
+<approved hash="111,1,33.02,-129.54,GND,,,,,"/>
+<approved hash="111,1,45.72,-119.38,5V-,,,,,"/>
+<approved hash="111,1,45.72,-121.92,5V+,,,,,"/>
+<approved hash="111,1,45.72,-124.46,9V-,,,,,"/>
+<approved hash="111,1,45.72,-127,9V+,,,,,"/>
+<approved hash="111,1,45.72,-129.54,GND,,,,,"/>
+<approved hash="111,1,58.42,-119.38,5V-,,,,,"/>
+<approved hash="111,1,58.42,-121.92,5V+,,,,,"/>
+<approved hash="111,1,58.42,-124.46,9V-,,,,,"/>
+<approved hash="111,1,58.42,-127,9V+,,,,,"/>
+<approved hash="111,1,58.42,-129.54,GND,,,,,"/>
+<approved hash="111,1,71.12,-119.38,5V-,,,,,"/>
+<approved hash="111,1,71.12,-121.92,5V+,,,,,"/>
+<approved hash="111,1,71.12,-124.46,9V-,,,,,"/>
+<approved hash="111,1,71.12,-127,9V+,,,,,"/>
+<approved hash="111,1,71.12,-129.54,GND,,,,,"/>
+<approved hash="111,1,83.82,-119.38,5V-,,,,,"/>
+<approved hash="111,1,83.82,-121.92,5V+,,,,,"/>
+<approved hash="111,1,83.82,-124.46,9V-,,,,,"/>
+<approved hash="111,1,83.82,-127,9V+,,,,,"/>
+<approved hash="111,1,83.82,-129.54,GND,,,,,"/>
+<approved hash="111,1,96.52,-119.38,5V-,,,,,"/>
+<approved hash="111,1,96.52,-121.92,5V+,,,,,"/>
+<approved hash="111,1,96.52,-124.46,9V-,,,,,"/>
+<approved hash="111,1,96.52,-127,9V+,,,,,"/>
+<approved hash="111,1,96.52,-129.54,GND,,,,,"/>
+<approved hash="111,1,109.22,-119.38,5V-,,,,,"/>
+<approved hash="111,1,109.22,-121.92,5V+,,,,,"/>
+<approved hash="111,1,109.22,-124.46,9V-,,,,,"/>
+<approved hash="111,1,109.22,-127,9V+,,,,,"/>
+<approved hash="111,1,109.22,-129.54,GND,,,,,"/>
+<approved hash="111,1,120.65,-121.92,5V+,,,,,"/>
+<approved hash="111,1,120.65,-124.46,9V-,,,,,"/>
+<approved hash="111,1,120.65,-129.54,GND,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
