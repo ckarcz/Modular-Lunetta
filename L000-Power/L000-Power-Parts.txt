@@ -1,0 +1,69 @@
+Partlist
+
+Exported from L000-Power.sch at 11/13/16 10:36 PM
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device              Package           Library  Sheet
+
+C1       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C2       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C3       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C4       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C5       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C6       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C7       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C8       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C9       3300uF         CPOL-USE5-13        E5-13             resistor 1
+C10      3300uF         CPOL-USE5-13        E5-13             resistor 1
+C11      3300uF         CPOL-USE5-13        E5-13             resistor 1
+C12      3300uF         CPOL-USE5-13        E5-13             resistor 1
+C13      1uF            CPOL-USE5-13        E5-13             resistor 1
+C14      1uF            CPOL-USE5-13        E5-13             resistor 1
+C15      1uF            CPOL-USE5-13        E5-13             resistor 1
+C16      1uF            CPOL-USE5-13        E5-13             resistor 1
+C17      1uF            CPOL-USE5-13        E5-13             resistor 1
+C18      1uF            CPOL-USE5-13        E5-13             resistor 1
+C19      1uF            CPOL-USE5-13        E5-13             resistor 1
+C20      1uF            CPOL-USE5-13        E5-13             resistor 1
+D1       1N4004         1N4004              DO41-10           diode    1
+D2       1N4004         1N4004              DO41-10           diode    1
+D3       1N4004         1N4004              DO41-10           diode    1
+D4       1N4004         1N4004              DO41-10           diode    1
+D5       1N4004         1N4004              DO41-10           diode    1
+D6       1N4004         1N4004              DO41-10           diode    1
+D7       1N4004         1N4004              DO41-10           diode    1
+D8       1N4004         1N4004              DO41-10           diode    1
+D9       1N4004         1N4004              DO41-10           diode    1
+D10      1N4004         1N4004              DO41-10           diode    1
+IC1      LM7805         7805T               TO220H            linear   1
+IC2      LM7905         7905T               TO220H            linear   1
+IC3      LM7809         7808T               TO220H            linear   1
+IC4      LM7909         7908T               TO220H            linear   1
+R1       2k             R-US_0309/10        0309/10           resistor 1
+R2       2k             R-US_0309/10        0309/10           resistor 1
+R3       2k             R-US_0309/10        0309/10           resistor 1
+R4       2k             R-US_0309/10        0309/10           resistor 1
+X1       JST-XH-2PIN    JST-PH_2-PIN_HEADER JST_B2B-PH_HEADER SRG      1
+X2       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X3       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X4       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X5       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X6       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X7       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X8       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X9       JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X10      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X11      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X12      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X13      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X14      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X15      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X16      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X17      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X18      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X19      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X20      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
+X21      JST-XH-5PIN    JST-PH_5-PIN_HEADER JST_B5B-PH_HEADER SRG      1
