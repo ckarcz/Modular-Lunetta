@@ -9687,8 +9687,38 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 <label x="-2.54" y="-106.68" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="121.92" y1="-129.54" x2="2.54" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="-129.54" x2="119.38" y2="-129.54" width="0.1524" layer="91"/>
 <label x="-2.54" y="-129.54" size="1.778" layer="95"/>
+<pinref part="X2" gate="G$1" pin="5"/>
+<junction x="5.08" y="-129.54"/>
+<wire x1="119.38" y1="-129.54" x2="106.68" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="-129.54" x2="93.98" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-129.54" x2="81.28" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-129.54" x2="68.58" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-129.54" x2="55.88" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-129.54" x2="43.18" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-129.54" x2="30.48" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-129.54" x2="17.78" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-129.54" x2="5.08" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-129.54" x2="2.54" y2="-129.54" width="0.1524" layer="91"/>
+<pinref part="X3" gate="G$1" pin="5"/>
+<junction x="17.78" y="-129.54"/>
+<pinref part="X4" gate="G$1" pin="5"/>
+<junction x="30.48" y="-129.54"/>
+<pinref part="X5" gate="G$1" pin="5"/>
+<junction x="43.18" y="-129.54"/>
+<pinref part="X6" gate="G$1" pin="5"/>
+<junction x="55.88" y="-129.54"/>
+<pinref part="X7" gate="G$1" pin="5"/>
+<junction x="68.58" y="-129.54"/>
+<pinref part="X8" gate="G$1" pin="5"/>
+<junction x="81.28" y="-129.54"/>
+<pinref part="X9" gate="G$1" pin="5"/>
+<junction x="93.98" y="-129.54"/>
+<pinref part="X10" gate="G$1" pin="5"/>
+<junction x="106.68" y="-129.54"/>
+<pinref part="X11" gate="G$1" pin="5"/>
+<junction x="119.38" y="-129.54"/>
 </segment>
 <segment>
 <wire x1="121.92" y1="-152.4" x2="119.38" y2="-152.4" width="0.1524" layer="91"/>
@@ -9748,8 +9778,38 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 <label x="129.54" y="-55.88" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="121.92" y1="-121.92" x2="2.54" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="-121.92" x2="119.38" y2="-121.92" width="0.1524" layer="91"/>
 <label x="-2.54" y="-121.92" size="1.778" layer="95"/>
+<pinref part="X2" gate="G$1" pin="2"/>
+<junction x="5.08" y="-121.92"/>
+<wire x1="119.38" y1="-121.92" x2="106.68" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="-121.92" x2="93.98" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-121.92" x2="81.28" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-121.92" x2="68.58" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-121.92" x2="55.88" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-121.92" x2="43.18" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-121.92" x2="30.48" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-121.92" x2="17.78" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-121.92" x2="5.08" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-121.92" x2="2.54" y2="-121.92" width="0.1524" layer="91"/>
+<pinref part="X3" gate="G$1" pin="2"/>
+<junction x="17.78" y="-121.92"/>
+<pinref part="X4" gate="G$1" pin="2"/>
+<junction x="30.48" y="-121.92"/>
+<pinref part="X5" gate="G$1" pin="2"/>
+<junction x="43.18" y="-121.92"/>
+<pinref part="X6" gate="G$1" pin="2"/>
+<junction x="55.88" y="-121.92"/>
+<pinref part="X7" gate="G$1" pin="2"/>
+<junction x="68.58" y="-121.92"/>
+<pinref part="X8" gate="G$1" pin="2"/>
+<junction x="81.28" y="-121.92"/>
+<pinref part="X9" gate="G$1" pin="2"/>
+<junction x="93.98" y="-121.92"/>
+<pinref part="X10" gate="G$1" pin="2"/>
+<junction x="106.68" y="-121.92"/>
+<pinref part="X11" gate="G$1" pin="2"/>
+<junction x="119.38" y="-121.92"/>
 </segment>
 <segment>
 <wire x1="121.92" y1="-144.78" x2="119.38" y2="-144.78" width="0.1524" layer="91"/>
@@ -9810,8 +9870,36 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 </segment>
 <segment>
 <pinref part="X11" gate="G$1" pin="1"/>
-<wire x1="119.38" y1="-119.38" x2="2.54" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="-119.38" x2="106.68" y2="-119.38" width="0.1524" layer="91"/>
 <label x="-2.54" y="-119.38" size="1.778" layer="95"/>
+<pinref part="X2" gate="G$1" pin="1"/>
+<junction x="5.08" y="-119.38"/>
+<wire x1="106.68" y1="-119.38" x2="93.98" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-119.38" x2="81.28" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-119.38" x2="68.58" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-119.38" x2="55.88" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-119.38" x2="43.18" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-119.38" x2="30.48" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-119.38" x2="17.78" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-119.38" x2="5.08" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-119.38" x2="2.54" y2="-119.38" width="0.1524" layer="91"/>
+<pinref part="X3" gate="G$1" pin="1"/>
+<junction x="17.78" y="-119.38"/>
+<pinref part="X4" gate="G$1" pin="1"/>
+<junction x="30.48" y="-119.38"/>
+<pinref part="X5" gate="G$1" pin="1"/>
+<junction x="43.18" y="-119.38"/>
+<pinref part="X6" gate="G$1" pin="1"/>
+<junction x="55.88" y="-119.38"/>
+<pinref part="X7" gate="G$1" pin="1"/>
+<junction x="68.58" y="-119.38"/>
+<pinref part="X8" gate="G$1" pin="1"/>
+<junction x="81.28" y="-119.38"/>
+<pinref part="X9" gate="G$1" pin="1"/>
+<junction x="93.98" y="-119.38"/>
+<pinref part="X10" gate="G$1" pin="1"/>
+<junction x="106.68" y="-119.38"/>
+<junction x="119.38" y="-119.38"/>
 </segment>
 <segment>
 <pinref part="X21" gate="G$1" pin="1"/>
@@ -9844,6 +9932,7 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 <junction x="93.98" y="-142.24"/>
 <pinref part="X20" gate="G$1" pin="1"/>
 <junction x="106.68" y="-142.24"/>
+<junction x="119.38" y="-142.24"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -9922,8 +10011,36 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 </segment>
 <segment>
 <pinref part="X11" gate="G$1" pin="4"/>
-<wire x1="119.38" y1="-127" x2="2.54" y2="-127" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="-127" x2="106.68" y2="-127" width="0.1524" layer="91"/>
 <label x="-2.54" y="-127" size="1.778" layer="95"/>
+<pinref part="X2" gate="G$1" pin="4"/>
+<junction x="5.08" y="-127"/>
+<wire x1="106.68" y1="-127" x2="93.98" y2="-127" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-127" x2="81.28" y2="-127" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-127" x2="68.58" y2="-127" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-127" x2="55.88" y2="-127" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-127" x2="43.18" y2="-127" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-127" x2="30.48" y2="-127" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-127" x2="17.78" y2="-127" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-127" x2="5.08" y2="-127" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-127" x2="2.54" y2="-127" width="0.1524" layer="91"/>
+<pinref part="X3" gate="G$1" pin="4"/>
+<junction x="17.78" y="-127"/>
+<pinref part="X4" gate="G$1" pin="4"/>
+<junction x="30.48" y="-127"/>
+<pinref part="X5" gate="G$1" pin="4"/>
+<junction x="43.18" y="-127"/>
+<pinref part="X6" gate="G$1" pin="4"/>
+<junction x="55.88" y="-127"/>
+<pinref part="X7" gate="G$1" pin="4"/>
+<junction x="68.58" y="-127"/>
+<pinref part="X8" gate="G$1" pin="4"/>
+<junction x="81.28" y="-127"/>
+<pinref part="X9" gate="G$1" pin="4"/>
+<junction x="93.98" y="-127"/>
+<pinref part="X10" gate="G$1" pin="4"/>
+<junction x="106.68" y="-127"/>
+<junction x="119.38" y="-127"/>
 </segment>
 <segment>
 <pinref part="X21" gate="G$1" pin="4"/>
@@ -9956,6 +10073,7 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 <junction x="93.98" y="-149.86"/>
 <pinref part="X20" gate="G$1" pin="4"/>
 <junction x="106.68" y="-149.86"/>
+<junction x="119.38" y="-149.86"/>
 </segment>
 </net>
 <net name="9V-" class="0">
@@ -9981,8 +10099,38 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 <wire x1="86.36" y1="-45.72" x2="86.36" y2="-35.56" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="121.92" y1="-124.46" x2="2.54" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="-124.46" x2="119.38" y2="-124.46" width="0.1524" layer="91"/>
 <label x="-2.54" y="-124.46" size="1.778" layer="95"/>
+<pinref part="X2" gate="G$1" pin="3"/>
+<junction x="5.08" y="-124.46"/>
+<wire x1="119.38" y1="-124.46" x2="106.68" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="-124.46" x2="93.98" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="-124.46" x2="81.28" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="-124.46" x2="68.58" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="-124.46" x2="55.88" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-124.46" x2="43.18" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="-124.46" x2="30.48" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-124.46" x2="17.78" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="-124.46" x2="5.08" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="-124.46" x2="2.54" y2="-124.46" width="0.1524" layer="91"/>
+<pinref part="X3" gate="G$1" pin="3"/>
+<junction x="17.78" y="-124.46"/>
+<pinref part="X4" gate="G$1" pin="3"/>
+<junction x="30.48" y="-124.46"/>
+<pinref part="X5" gate="G$1" pin="3"/>
+<junction x="43.18" y="-124.46"/>
+<pinref part="X6" gate="G$1" pin="3"/>
+<junction x="55.88" y="-124.46"/>
+<pinref part="X7" gate="G$1" pin="3"/>
+<junction x="68.58" y="-124.46"/>
+<pinref part="X8" gate="G$1" pin="3"/>
+<junction x="81.28" y="-124.46"/>
+<pinref part="X9" gate="G$1" pin="3"/>
+<junction x="93.98" y="-124.46"/>
+<pinref part="X10" gate="G$1" pin="3"/>
+<junction x="106.68" y="-124.46"/>
+<pinref part="X11" gate="G$1" pin="3"/>
+<junction x="119.38" y="-124.46"/>
 </segment>
 <segment>
 <wire x1="121.92" y1="-147.32" x2="119.38" y2="-147.32" width="0.1524" layer="91"/>
@@ -10093,56 +10241,6 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="111,1,7.62,-119.38,5V-,,,,,"/>
-<approved hash="111,1,7.62,-121.92,5V+,,,,,"/>
-<approved hash="111,1,7.62,-124.46,9V-,,,,,"/>
-<approved hash="111,1,7.62,-127,9V+,,,,,"/>
-<approved hash="111,1,7.62,-129.54,GND,,,,,"/>
-<approved hash="111,1,20.32,-119.38,5V-,,,,,"/>
-<approved hash="111,1,20.32,-121.92,5V+,,,,,"/>
-<approved hash="111,1,20.32,-124.46,9V-,,,,,"/>
-<approved hash="111,1,20.32,-127,9V+,,,,,"/>
-<approved hash="111,1,20.32,-129.54,GND,,,,,"/>
-<approved hash="111,1,33.02,-119.38,5V-,,,,,"/>
-<approved hash="111,1,33.02,-121.92,5V+,,,,,"/>
-<approved hash="111,1,33.02,-124.46,9V-,,,,,"/>
-<approved hash="111,1,33.02,-127,9V+,,,,,"/>
-<approved hash="111,1,33.02,-129.54,GND,,,,,"/>
-<approved hash="111,1,45.72,-119.38,5V-,,,,,"/>
-<approved hash="111,1,45.72,-121.92,5V+,,,,,"/>
-<approved hash="111,1,45.72,-124.46,9V-,,,,,"/>
-<approved hash="111,1,45.72,-127,9V+,,,,,"/>
-<approved hash="111,1,45.72,-129.54,GND,,,,,"/>
-<approved hash="111,1,58.42,-119.38,5V-,,,,,"/>
-<approved hash="111,1,58.42,-121.92,5V+,,,,,"/>
-<approved hash="111,1,58.42,-124.46,9V-,,,,,"/>
-<approved hash="111,1,58.42,-127,9V+,,,,,"/>
-<approved hash="111,1,58.42,-129.54,GND,,,,,"/>
-<approved hash="111,1,71.12,-119.38,5V-,,,,,"/>
-<approved hash="111,1,71.12,-121.92,5V+,,,,,"/>
-<approved hash="111,1,71.12,-124.46,9V-,,,,,"/>
-<approved hash="111,1,71.12,-127,9V+,,,,,"/>
-<approved hash="111,1,71.12,-129.54,GND,,,,,"/>
-<approved hash="111,1,83.82,-119.38,5V-,,,,,"/>
-<approved hash="111,1,83.82,-121.92,5V+,,,,,"/>
-<approved hash="111,1,83.82,-124.46,9V-,,,,,"/>
-<approved hash="111,1,83.82,-127,9V+,,,,,"/>
-<approved hash="111,1,83.82,-129.54,GND,,,,,"/>
-<approved hash="111,1,96.52,-119.38,5V-,,,,,"/>
-<approved hash="111,1,96.52,-121.92,5V+,,,,,"/>
-<approved hash="111,1,96.52,-124.46,9V-,,,,,"/>
-<approved hash="111,1,96.52,-127,9V+,,,,,"/>
-<approved hash="111,1,96.52,-129.54,GND,,,,,"/>
-<approved hash="111,1,109.22,-119.38,5V-,,,,,"/>
-<approved hash="111,1,109.22,-121.92,5V+,,,,,"/>
-<approved hash="111,1,109.22,-124.46,9V-,,,,,"/>
-<approved hash="111,1,109.22,-127,9V+,,,,,"/>
-<approved hash="111,1,109.22,-129.54,GND,,,,,"/>
-<approved hash="111,1,120.65,-121.92,5V+,,,,,"/>
-<approved hash="111,1,120.65,-124.46,9V-,,,,,"/>
-<approved hash="111,1,120.65,-129.54,GND,,,,,"/>
-</errors>
 </schematic>
 </drawing>
 </eagle>
