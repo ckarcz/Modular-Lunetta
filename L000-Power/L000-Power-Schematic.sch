@@ -10234,8 +10234,6 @@ Mating cable assembly: Sparkfun &lt;a href="http://www.sparkfun.com/products/991
 <wire x1="7.62" y1="-104.14" x2="5.08" y2="-104.14" width="0.1524" layer="91"/>
 <label x="-2.54" y="-104.14" size="1.778" layer="95"/>
 <pinref part="X1" gate="G$1" pin="1"/>
-<wire x1="5.08" y1="-104.14" x2="2.54" y2="-104.14" width="0.1524" layer="91"/>
-<junction x="5.08" y="-104.14"/>
 </segment>
 </net>
 </nets>
