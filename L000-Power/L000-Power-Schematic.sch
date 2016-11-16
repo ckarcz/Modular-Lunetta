@@ -17007,6 +17007,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="-38.1" y="-99.06" size="1.778" layer="91">Panel GND bus</text>
 </plain>
 <instances>
 <instance part="C1" gate="G$1" x="20.32" y="-73.66"/>
