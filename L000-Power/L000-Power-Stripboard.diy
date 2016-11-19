@@ -2779,7 +2779,5 @@
     </org.diylc.components.misc.Label>
   </components>
   <groups/>
-  <lockedLayers>
-    <int>2</int>
-  </lockedLayers>
+  <lockedLayers/>
 </org.diylc.core.Project>
