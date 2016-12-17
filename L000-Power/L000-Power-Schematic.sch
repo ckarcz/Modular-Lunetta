@@ -18707,6 +18707,10 @@ Source: www.kingbright.com</description>
 <label x="-30.48" y="-55.88" size="1.778" layer="95"/>
 <wire x1="5.08" y1="-55.88" x2="-5.08" y2="-55.88" width="0.1524" layer="91"/>
 <junction x="-5.08" y="-55.88"/>
+<junction x="-5.08" y="-91.44"/>
+<junction x="-5.08" y="-83.82"/>
+<junction x="-5.08" y="-76.2"/>
+<junction x="-5.08" y="-68.58"/>
 </segment>
 <segment>
 <wire x1="129.54" y1="-119.38" x2="127" y2="-119.38" width="0.1524" layer="91"/>
