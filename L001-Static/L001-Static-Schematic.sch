@@ -3558,14 +3558,14 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="R1" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
-<part name="R2" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
-<part name="R3" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
-<part name="R4" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
-<part name="R5" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
-<part name="R6" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
-<part name="R7" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
-<part name="R8" library="resistor" deviceset="R-US_" device="VMTA55" value="10k"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R2" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R3" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R4" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R5" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R6" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R7" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R8" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="D1" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
 <part name="D2" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
 <part name="D3" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
