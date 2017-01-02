@@ -11899,7 +11899,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="D1" library="led" deviceset="SFH482" device="" value="LED"/>
 <part name="D2" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 <part name="D3" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
-<part name="R5" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
+<part name="R5" library="resistor" deviceset="R-US_" device="VMTA55" value="10K"/>
 <part name="C2" library="rcl" deviceset="CPOL-US" device="E2.5-6" value="0.1~1uF"/>
 </parts>
 <sheets>
