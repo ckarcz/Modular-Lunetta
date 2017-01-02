@@ -11310,31 +11310,31 @@ Based on the following sources:
 <parts>
 <part name="R4" library="resistor" deviceset="R-US_" device="VMTA55" value="4.7K"/>
 <part name="D1" library="led" deviceset="SFH482" device="" value="LED"/>
-<part name="D2" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D3" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
+<part name="D2" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D3" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 <part name="R5" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="C2" library="rcl" deviceset="CPOL-US" device="E2.5-6" value="0.1~1uF"/>
 <part name="IC1" library="40xx" deviceset="4015" device="N"/>
 <part name="R3" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="R8" library="resistor" deviceset="R-US_" device="VMTA55" value="1M"/>
-<part name="D4" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D5" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
+<part name="D4" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D5" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 <part name="R1" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="R2" library="resistor" deviceset="R-US_" device="VMTA55" value="1M"/>
-<part name="D6" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D7" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
+<part name="D6" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D7" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 <part name="R6" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="R7" library="resistor" deviceset="R-US_" device="VMTA55" value="1M"/>
-<part name="D8" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D9" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D10" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D11" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
+<part name="D8" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D9" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D10" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D11" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 <part name="R9" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
-<part name="D12" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D13" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
+<part name="D12" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D13" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 <part name="R10" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
-<part name="D14" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D15" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
+<part name="D14" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D15" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 <part name="R11" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="R12" library="resistor" deviceset="R-US_" device="VMTA55" value="4.7K"/>
 <part name="D16" library="led" deviceset="SFH482" device="" value="LED"/>
@@ -11343,6 +11343,7 @@ Based on the following sources:
 <sheet>
 <plain>
 <text x="22.86" y="53.34" size="1.778" layer="91">this x2</text>
+<text x="-48.26" y="35.56" size="1.778" layer="91">close to power pins</text>
 </plain>
 <instances>
 <instance part="R4" gate="G$1" x="68.58" y="20.32" rot="R90"/>

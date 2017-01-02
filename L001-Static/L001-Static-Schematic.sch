@@ -3566,14 +3566,14 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="R6" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="R7" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
 <part name="R8" library="resistor" deviceset="R-US_" device="VMTA55" value="1K"/>
-<part name="D1" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D2" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D3" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D4" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D5" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D6" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D7" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="D8" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
+<part name="D1" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D2" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D3" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D4" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D5" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D6" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D7" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
+<part name="D8" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N60P"/>
 </parts>
 <sheets>
 <sheet>
