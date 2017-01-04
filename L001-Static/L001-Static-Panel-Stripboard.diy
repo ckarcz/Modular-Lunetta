@@ -8,11 +8,11 @@
   <title>New Project</title>
   <author>ckarcz</author>
   <width>
-    <value>10.0</value>
+    <value>8.4</value>
     <unit class="org.diylc.core.measures.SizeUnit">cm</unit>
   </width>
   <height>
-    <value>3.0</value>
+    <value>2.0</value>
     <unit class="org.diylc.core.measures.SizeUnit">cm</unit>
   </height>
   <gridSpacing>
@@ -25,11 +25,11 @@
       <alpha>127</alpha>
       <value></value>
       <controlPoints>
-        <java.awt.Point x="0.1" y="0.3"/>
-        <java.awt.Point x="3.2" y="0.9"/>
+        <java.awt.Point x="0.1" y="0.1"/>
+        <java.awt.Point x="3.2" y="0.7"/>
       </controlPoints>
-      <firstPoint x="0.1" y="0.3"/>
-      <secondPoint x="3.2" y="0.9"/>
+      <firstPoint x="0.1" y="0.1"/>
+      <secondPoint x="3.2" y="0.7"/>
       <boardColor>
         <red>248</red>
         <green>235</green>
@@ -82,7 +82,7 @@
       <boardColor reference="../../org.diylc.components.boards.VeroBoard/boardColor"/>
       <cutBetweenHoles>false</cutBetweenHoles>
       <holeSpacing reference="../../org.diylc.components.boards.VeroBoard/spacing"/>
-      <point x="1.0" y="0.4"/>
+      <point x="1.0" y="0.2"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -113,7 +113,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="0.7" y="0.4"/>
+      <point x="0.7" y="0.2"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -144,7 +144,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="0.4" y="0.4"/>
+      <point x="0.4" y="0.2"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -175,7 +175,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="0.7" y="0.8"/>
+      <point x="0.7" y="0.6"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -206,7 +206,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="0.4" y="0.8"/>
+      <point x="0.4" y="0.6"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -237,7 +237,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="1.0" y="0.8"/>
+      <point x="1.0" y="0.6"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -268,7 +268,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="2.3" y="0.4"/>
+      <point x="2.3" y="0.2"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -299,7 +299,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="2.0" y="0.4"/>
+      <point x="2.0" y="0.2"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -330,7 +330,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="1.7" y="0.4"/>
+      <point x="1.7" y="0.2"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -361,7 +361,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="2.0" y="0.8"/>
+      <point x="2.0" y="0.6"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -392,7 +392,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="1.7" y="0.8"/>
+      <point x="1.7" y="0.6"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -423,7 +423,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="2.3" y="0.8"/>
+      <point x="2.3" y="0.6"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -454,38 +454,7 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="1.4" y="0.8"/>
-    </org.diylc.components.connectivity.TraceCut>
-    <org.diylc.components.connectivity.TraceCut>
-      <name>Cut1</name>
-      <size>
-        <value>0.07</value>
-        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
-      </size>
-      <fillColor>
-        <red>255</red>
-        <green>255</green>
-        <blue>255</blue>
-        <alpha>255</alpha>
-      </fillColor>
-      <borderColor>
-        <red>255</red>
-        <green>0</green>
-        <blue>0</blue>
-        <alpha>255</alpha>
-      </borderColor>
-      <boardColor>
-        <red>248</red>
-        <green>235</green>
-        <blue>179</blue>
-        <alpha>255</alpha>
-      </boardColor>
-      <cutBetweenHoles>false</cutBetweenHoles>
-      <holeSpacing>
-        <value>0.1</value>
-        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
-      </holeSpacing>
-      <point x="3.0" y="0.8"/>
+      <point x="1.4" y="0.6"/>
     </org.diylc.components.connectivity.TraceCut>
     <org.diylc.components.connectivity.TraceCut>
       <name>Cut1</name>
@@ -578,11 +547,493 @@
         <value>0.1</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </holeSpacing>
-      <point x="1.4" y="0.7"/>
+      <point x="3.0" y="0.2"/>
     </org.diylc.components.connectivity.TraceCut>
+    <org.diylc.components.connectivity.TraceCut>
+      <name>Cut1</name>
+      <size>
+        <value>0.07</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <fillColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </fillColor>
+      <borderColor>
+        <red>255</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <boardColor>
+        <red>248</red>
+        <green>235</green>
+        <blue>179</blue>
+        <alpha>255</alpha>
+      </boardColor>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <holeSpacing>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSpacing>
+      <point x="1.4" y="0.5"/>
+    </org.diylc.components.connectivity.TraceCut>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad1</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="0.2" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad2</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.3" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad3</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.5" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad4</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.6" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad5</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.8" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad6</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.9" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad7</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.1" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad8</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.2" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad9</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.5" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad10</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.6" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad11</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.8" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad12</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.9" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad13</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.1" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad14</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.2" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad15</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.4" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad16</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.5" y="0.2"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad17</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.5" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad18</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.2" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad19</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.9" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad20</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.6" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad21</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.2" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad22</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.3" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad23</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.3" y="0.3"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad24</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.1" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad25</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.9" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad26</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.8" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad27</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.6" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad28</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.5" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad29</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.3" y="0.5"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad30</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="0.2" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad31</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.1" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad32</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="2.4" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad33</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.8" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad34</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
+      <point x="1.5" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad35</name>
+      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
+      <color>
+        <red>51</red>
+        <green>255</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="0.3" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad35</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>51</red>
+        <green>255</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="0.6" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad35</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>51</red>
+        <green>255</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="0.9" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad35</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>51</red>
+        <green>255</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="1.2" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad35</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>51</red>
+        <green>255</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="1.6" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad35</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>51</red>
+        <green>255</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="1.9" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad35</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>51</red>
+        <green>255</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="2.2" y="0.6"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -592,8 +1043,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="0.3" y="0.7"/>
-        <java.awt.Point x="0.3" y="0.4"/>
+        <java.awt.Point x="0.3" y="0.5"/>
+        <java.awt.Point x="0.3" y="0.2"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -631,7 +1082,7 @@
     </org.diylc.components.semiconductors.DiodePlastic>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -641,8 +1092,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="0.2" y="0.4"/>
-        <java.awt.Point x="0.2" y="0.8"/>
+        <java.awt.Point x="0.2" y="0.2"/>
+        <java.awt.Point x="0.2" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -679,7 +1130,7 @@
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -689,8 +1140,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="0.6" y="0.7"/>
-        <java.awt.Point x="0.6" y="0.4"/>
+        <java.awt.Point x="0.6" y="0.5"/>
+        <java.awt.Point x="0.6" y="0.2"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -728,7 +1179,7 @@
     </org.diylc.components.semiconductors.DiodePlastic>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -738,8 +1189,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="0.5" y="0.4"/>
-        <java.awt.Point x="0.5" y="0.8"/>
+        <java.awt.Point x="0.5" y="0.2"/>
+        <java.awt.Point x="0.5" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -776,7 +1227,7 @@
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -786,8 +1237,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="0.9" y="0.7"/>
-        <java.awt.Point x="0.9" y="0.4"/>
+        <java.awt.Point x="0.9" y="0.5"/>
+        <java.awt.Point x="0.9" y="0.2"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -825,7 +1276,7 @@
     </org.diylc.components.semiconductors.DiodePlastic>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -835,8 +1286,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="0.8" y="0.4"/>
-        <java.awt.Point x="0.8" y="0.8"/>
+        <java.awt.Point x="0.8" y="0.2"/>
+        <java.awt.Point x="0.8" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -873,7 +1324,7 @@
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -883,8 +1334,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="1.2" y="0.7"/>
-        <java.awt.Point x="1.2" y="0.4"/>
+        <java.awt.Point x="1.2" y="0.5"/>
+        <java.awt.Point x="1.2" y="0.2"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -922,7 +1373,7 @@
     </org.diylc.components.semiconductors.DiodePlastic>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -932,8 +1383,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="1.1" y="0.4"/>
-        <java.awt.Point x="1.1" y="0.8"/>
+        <java.awt.Point x="1.1" y="0.2"/>
+        <java.awt.Point x="1.1" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -970,7 +1421,7 @@
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -980,8 +1431,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="1.5" y="0.4"/>
-        <java.awt.Point x="1.5" y="0.8"/>
+        <java.awt.Point x="1.5" y="0.2"/>
+        <java.awt.Point x="1.5" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -1018,7 +1469,7 @@
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -1028,8 +1479,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="1.8" y="0.4"/>
-        <java.awt.Point x="1.8" y="0.8"/>
+        <java.awt.Point x="1.8" y="0.2"/>
+        <java.awt.Point x="1.8" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -1066,7 +1517,7 @@
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -1076,8 +1527,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="2.1" y="0.4"/>
-        <java.awt.Point x="2.1" y="0.8"/>
+        <java.awt.Point x="2.1" y="0.2"/>
+        <java.awt.Point x="2.1" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -1114,7 +1565,7 @@
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -1124,8 +1575,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="2.5" y="0.4"/>
-        <java.awt.Point x="2.5" y="0.7"/>
+        <java.awt.Point x="2.5" y="0.2"/>
+        <java.awt.Point x="2.5" y="0.5"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -1163,7 +1614,7 @@
     </org.diylc.components.semiconductors.DiodePlastic>
     <org.diylc.components.passive.Resistor>
       <name>R1</name>
-      <alpha>127</alpha>
+      <alpha>52</alpha>
       <length>
         <value>0.3</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -1173,8 +1624,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="2.4" y="0.4"/>
-        <java.awt.Point x="2.4" y="0.8"/>
+        <java.awt.Point x="2.4" y="0.2"/>
+        <java.awt.Point x="2.4" y="0.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -1213,8 +1664,8 @@
       <name>J1</name>
       <alpha>127</alpha>
       <points>
-        <java.awt.Point x="1.3" y="0.7"/>
         <java.awt.Point x="1.3" y="0.5"/>
+        <java.awt.Point x="1.3" y="0.3"/>
       </points>
       <bodyColor reference="../../org.diylc.components.connectivity.TraceCut/fillColor"/>
       <borderColor reference="../../org.diylc.components.passive.Resistor/labelColor"/>
@@ -1228,61 +1679,9 @@
       <display>NAME</display>
       <flipStanding>false</flipStanding>
     </org.diylc.components.connectivity.Jumper>
-    <org.diylc.components.shapes.Rectangle>
-      <name>RECT1</name>
-      <alpha>127</alpha>
-      <value></value>
-      <controlPoints>
-        <java.awt.Point x="3.1" y="0.4"/>
-        <java.awt.Point x="3.2" y="0.8"/>
-      </controlPoints>
-      <firstPoint x="3.1" y="0.4"/>
-      <secondPoint x="3.2" y="0.8"/>
-      <color reference="../../org.diylc.components.connectivity.TraceCut/fillColor"/>
-      <borderColor reference="../../org.diylc.components.passive.Resistor/labelColor"/>
-      <borderThickness>
-        <value>0.2</value>
-        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
-      </borderThickness>
-      <edgeRadius>
-        <value>0.0</value>
-        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
-      </edgeRadius>
-    </org.diylc.components.shapes.Rectangle>
-    <org.diylc.components.shapes.Rectangle>
-      <name>RECT1</name>
-      <alpha>127</alpha>
-      <value></value>
-      <controlPoints>
-        <java.awt.Point x="3.2" y="0.5"/>
-        <java.awt.Point x="3.3" y="0.7"/>
-      </controlPoints>
-      <firstPoint x="3.2" y="0.5"/>
-      <secondPoint x="3.3" y="0.7"/>
-      <color>
-        <red>255</red>
-        <green>255</green>
-        <blue>255</blue>
-        <alpha>255</alpha>
-      </color>
-      <borderColor>
-        <red>0</red>
-        <green>0</green>
-        <blue>0</blue>
-        <alpha>255</alpha>
-      </borderColor>
-      <borderThickness>
-        <value>0.2</value>
-        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
-      </borderThickness>
-      <edgeRadius>
-        <value>0.0</value>
-        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
-      </edgeRadius>
-    </org.diylc.components.shapes.Rectangle>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -1292,8 +1691,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="2.2" y="0.4"/>
-        <java.awt.Point x="2.2" y="0.7"/>
+        <java.awt.Point x="2.2" y="0.2"/>
+        <java.awt.Point x="2.2" y="0.5"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -1331,7 +1730,7 @@
     </org.diylc.components.semiconductors.DiodePlastic>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -1341,8 +1740,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="1.9" y="0.4"/>
-        <java.awt.Point x="1.9" y="0.7"/>
+        <java.awt.Point x="1.9" y="0.2"/>
+        <java.awt.Point x="1.9" y="0.5"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -1380,7 +1779,7 @@
     </org.diylc.components.semiconductors.DiodePlastic>
     <org.diylc.components.semiconductors.DiodePlastic>
       <name>D1</name>
-      <alpha>127</alpha>
+      <alpha>50</alpha>
       <length>
         <value>0.2</value>
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
@@ -1390,8 +1789,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="1.6" y="0.4"/>
-        <java.awt.Point x="1.6" y="0.7"/>
+        <java.awt.Point x="1.6" y="0.2"/>
+        <java.awt.Point x="1.6" y="0.5"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -1427,46 +1826,12 @@
         <alpha>255</alpha>
       </markerColor>
     </org.diylc.components.semiconductors.DiodePlastic>
-    <org.diylc.components.connectivity.HookupWire>
-      <name>W1</name>
-      <alpha>127</alpha>
-      <controlPoints>
-        <java.awt.Point x="3.3" y="0.6"/>
-        <java.awt.Point x="3.8" y="0.6"/>
-        <java.awt.Point x="3.8" y="1.1"/>
-        <java.awt.Point x="3.3" y="1.1"/>
-      </controlPoints>
-      <color>
-        <red>0</red>
-        <green>255</green>
-        <blue>0</blue>
-        <alpha>255</alpha>
-      </color>
-      <pointCount>FOUR</pointCount>
-      <gauge>_22</gauge>
-    </org.diylc.components.connectivity.HookupWire>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="1.6" y="0.8"/>
+      <point x="1.6" y="0.7"/>
       <text>-5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1476,11 +1841,27 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
@@ -1498,26 +1879,10 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="1.2" y="0.8"/>
+      <point x="1.2" y="0.7"/>
       <text>+5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1527,11 +1892,27 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
@@ -1549,26 +1930,10 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="1.9" y="0.8"/>
+      <point x="1.9" y="0.7"/>
       <text>-5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1578,11 +1943,27 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
@@ -1600,26 +1981,10 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="2.2" y="0.8"/>
+      <point x="2.2" y="0.7"/>
       <text>-5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1629,11 +1994,27 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
@@ -1651,26 +2032,10 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="2.5" y="0.8"/>
+      <point x="2.5" y="0.7"/>
       <text>-5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1680,11 +2045,27 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
@@ -1702,27 +2083,11 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="0.9" y="0.8"/>
+      <point x="0.9" y="0.7"/>
       <text>+5V</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
           </entry>
@@ -1731,11 +2096,27 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
@@ -1753,26 +2134,10 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="0.6" y="0.8"/>
+      <point x="0.6" y="0.7"/>
       <text>+5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1782,11 +2147,27 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
@@ -1804,26 +2185,10 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="0.3" y="0.8"/>
+      <point x="0.3" y="0.7"/>
       <text>+5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1833,68 +2198,33 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>
       </font>
       <color>
         <red>204</red>
-        <green>0</green>
-        <blue>0</blue>
-        <alpha>255</alpha>
-      </color>
-      <center>false</center>
-      <horizontalAlignment>CENTER</horizontalAlignment>
-      <verticalAlignment>CENTER</verticalAlignment>
-      <orientation>DEFAULT</orientation>
-    </org.diylc.components.misc.Label>
-    <org.diylc.components.misc.Label>
-      <name>L1</name>
-      <point x="3.0" y="0.7"/>
-      <text>-5V</text>
-      <font>
-        <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
-          </entry>
-          <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
-            <null/>
-          </entry>
-        </attributes>
-      </font>
-      <color>
-        <red>0</red>
         <green>0</green>
         <blue>0</blue>
         <alpha>255</alpha>
@@ -1907,25 +2237,9 @@
     <org.diylc.components.misc.Label>
       <name>L1</name>
       <point x="3.0" y="0.5"/>
-      <text>+5V</text>
+      <text>-5V</text>
       <font>
         <attributes>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>transform</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
           <entry>
             <awt-text-attribute>family</awt-text-attribute>
             <string>Tahoma</string>
@@ -1935,11 +2249,78 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>superscript</awt-text-attribute>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
+            <null/>
+          </entry>
+        </attributes>
+      </font>
+      <color>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </org.diylc.components.misc.Label>
+    <org.diylc.components.misc.Label>
+      <name>L1</name>
+      <point x="3.0" y="0.3"/>
+      <text>+5V</text>
+      <font>
+        <attributes>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>weight</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>superscript</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
+          </entry>
+          <entry>
+            <awt-text-attribute>transform</awt-text-attribute>
             <null/>
           </entry>
         </attributes>

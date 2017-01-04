@@ -11892,7 +11892,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 </classes>
 <parts>
 <part name="IC1" library="40xx" deviceset="40106" device="N" value="40106"/>
-<part name="R1" library="resistor" deviceset="R-US_" device="VMTA55" value="2~4K"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="VMTA55" value="4.7K"/>
 <part name="C1" library="rcl" deviceset="CPOL-US" device="E2.5-6" value="1uF"/>
 <part name="R2" library="pot" deviceset="US-EVU" device="M" technology="F3" value="1M"/>
 <part name="R4" library="resistor" deviceset="R-US_" device="VMTA55" value="4.7K"/>
