@@ -11,7 +11,7 @@
 
 This repository contains all information, files, and explanations regarding my build of a simple(?) modular lunetta-synthesizer-pattern-generator-logic-machine built using mostly CD4000 series CMOS digital logic chips, sometimes in linear or irregular way to create classic (or not so classic) synthesizer circuits & modules.
 
-Warning - Although most of these circuits are pretty simple, this is a ambitious project and meant for people who have at least decent knowledge of electronics and some prior project experience, particularly with stripboarding. Though I plan to explain circuits whenever possible, this repo will not exactly hold your hand through everything. You will have to understand the circuit yourself and connect the dots were necessary.
+Warning - Although most of these circuits are pretty simple, this is a ambitious project and meant for people who have at least decent knowledge of electronics and some prior project experience, particularly with stripboarding. Though I plan to explain circuits whenever possible, this repo will not exactly hold your hand through everything. You will have to understand the circuit yourself and connect the dots where necessary.
 
 Who - I'm a software developer who has a big love for music and a long time interest in diy electronics (but thought it out of my league). Anyway around 2012 I took the leap and brought the two together and have learned a lot since then. But I'm still learning!
 
