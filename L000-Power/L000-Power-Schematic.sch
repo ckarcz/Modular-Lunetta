@@ -18502,10 +18502,10 @@ Source: www.kingbright.com</description>
 <part name="LED4" library="led" deviceset="LED" device="5MM"/>
 <part name="LED1" library="led" deviceset="LED" device="5MM"/>
 <part name="LED2" library="led" deviceset="LED" device="5MM"/>
-<part name="R11" library="resistor" deviceset="R-US_" device="0309/10" value="?"/>
-<part name="R12" library="resistor" deviceset="R-US_" device="0309/10" value="?"/>
-<part name="R9" library="resistor" deviceset="R-US_" device="0309/10" value="?"/>
-<part name="R10" library="resistor" deviceset="R-US_" device="0309/10" value="?"/>
+<part name="R11" library="resistor" deviceset="R-US_" device="0309/10" value="1K"/>
+<part name="R12" library="resistor" deviceset="R-US_" device="0309/10" value="1K"/>
+<part name="R9" library="resistor" deviceset="R-US_" device="0309/10" value="2K"/>
+<part name="R10" library="resistor" deviceset="R-US_" device="0309/10" value="2K"/>
 </parts>
 <sheets>
 <sheet>
