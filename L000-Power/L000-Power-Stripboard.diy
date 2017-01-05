@@ -656,20 +656,6 @@
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
-      <name>Pad2</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
-      <color>
-        <red>255</red>
-        <green>255</green>
-        <blue>255</blue>
-        <alpha>255</alpha>
-      </color>
-      <point x="0.3" y="1.9"/>
-      <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
-      <layer>_1</layer>
-    </org.diylc.components.connectivity.SolderPad>
-    <org.diylc.components.connectivity.SolderPad>
       <name>Pad3</name>
       <size>
         <value>0.09</value>
@@ -691,1307 +677,1327 @@
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad4</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.1"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad5</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad6</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad7</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad8</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad9</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.7"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad10</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad11</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad12</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="3.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad13</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="3.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad14</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad15</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="3.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad16</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad17</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="3.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad18</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="0.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad19</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad20</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad21</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="0.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad23</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="0.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad22</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="0.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad24</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="0.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad25</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad26</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.1"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad27</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad28</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad29</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad30</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad31</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad32</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.7"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad33</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.3" y="1.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.8" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.8" y="3.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.4" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.4" y="3.1"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.3" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.3" y="0.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.8" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.8" y="0.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.9" y="2.1"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.9" y="3.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.0" y="2.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.0" y="3.1"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.9" y="0.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.9" y="1.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.0" y="0.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.0" y="1.7"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad34</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.4" y="1.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad35</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.2" y="1.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad36</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.0" y="1.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad37</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.0" y="1.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad38</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.2" y="1.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad39</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.4" y="1.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad40</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.4" y="2.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad41</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.2" y="2.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad42</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.0" y="2.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad43</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.0" y="2.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad44</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.2" y="2.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad45</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.4" y="2.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad46</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.4" y="2.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad47</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.4" y="1.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad48</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.5" y="1.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad49</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.6" y="1.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad50</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.7" y="1.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad51</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.7" y="1.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad52</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.6" y="1.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad53</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.5" y="1.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad54</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.5" y="1.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad55</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.4" y="0.7"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad56</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.4" y="0.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad57</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.5" y="0.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad58</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.5" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad59</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.6" y="2.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad60</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.5" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad61</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.6" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad62</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.5" y="2.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad63</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.6" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad64</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.8" y="3.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad65</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.8" y="3.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad66</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.7" y="3.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad67</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="0.7" y="2.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad68</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.2" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad69</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.1" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad70</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.0" y="3.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad71</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.9" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad72</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.8" y="3.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad73</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.8" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad74</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.9" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad75</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.4" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad76</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.5" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad77</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.5" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad78</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.4" y="3.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad79</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.7" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad80</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.7" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad81</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.8" y="0.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad82</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.0" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad83</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.1" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad84</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.2" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad85</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.6" y="3.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad86</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.6" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad87</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.7" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad88</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.8" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad89</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.8" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad90</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.7" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad91</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.7" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad92</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.7" y="3.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad93</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.7" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad94</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.3" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad95</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.3" y="3.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad96</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.3" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad97</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.5" y="0.7"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad98</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.6" y="0.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad99</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.7" y="0.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad100</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.4" y="0.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad101</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.3" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad102</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.3" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad103</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.4" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad105</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.5" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad104</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.6" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad106</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.7" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad107</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.2" y="0.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad108</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.2" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad109</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.2" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad110</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.6" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad111</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.6" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad112</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.6" y="0.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad113</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.8" y="0.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad114</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.9" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad115</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="1.9" y="0.7"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad116</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.0" y="0.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad117</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.1" y="0.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad118</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.0" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad119</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="2.1" y="0.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <point x="2.8" y="1.9"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <point x="3.4" y="1.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.8" y="2.9"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <point x="2.8" y="2.0"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <point x="3.4" y="2.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.8" y="3.0"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <point x="2.8" y="2.1"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <point x="3.4" y="2.1"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="3.8" y="3.1"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <point x="2.8" y="1.8"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <point x="3.4" y="1.8"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <point x="2.8" y="1.7"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <point x="3.4" y="1.7"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name></name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.1" y="3.2"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad120</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.1" y="3.3"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad121</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.1" y="3.4"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad122</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <point x="4.1" y="3.5"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <point x="4.7" y="3.5"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.connectivity.SolderPad>
       <name>Pad123</name>
-      <size reference="../../org.diylc.components.connectivity.SolderPad[3]/size"/>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <size reference="../../org.diylc.components.connectivity.SolderPad[2]/size"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <point x="4.1" y="3.6"/>
       <type>ROUND</type>
-      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[3]/holeSize"/>
+      <holeSize reference="../../org.diylc.components.connectivity.SolderPad[2]/holeSize"/>
+      <layer>_1</layer>
+    </org.diylc.components.connectivity.SolderPad>
+    <org.diylc.components.connectivity.SolderPad>
+      <name>Pad1</name>
+      <size>
+        <value>0.09</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <color>
+        <red>0</red>
+        <green>142</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="0.3" y="1.9"/>
+      <type>ROUND</type>
+      <holeSize>
+        <value>0.8</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </holeSize>
       <layer>_1</layer>
     </org.diylc.components.connectivity.SolderPad>
     <org.diylc.components.semiconductors.DiodePlastic>
@@ -3884,8 +3890,8 @@
         <java.awt.Point x="1.8" y="3.2"/>
       </points>
       <bodyColor reference="../../org.diylc.components.connectivity.TraceCut[4]/fillColor"/>
-      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <leadColor>
         <red>0</red>
         <green>255</green>
@@ -3903,8 +3909,8 @@
         <java.awt.Point x="3.4" y="3.1"/>
       </points>
       <bodyColor reference="../../org.diylc.components.connectivity.TraceCut[4]/fillColor"/>
-      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <leadColor reference="../../org.diylc.components.connectivity.Jumper[11]/leadColor"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
@@ -3917,8 +3923,8 @@
         <java.awt.Point x="2.3" y="0.8"/>
       </points>
       <bodyColor reference="../../org.diylc.components.connectivity.TraceCut[4]/fillColor"/>
-      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <leadColor reference="../../org.diylc.components.connectivity.Jumper[11]/leadColor"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
@@ -3931,8 +3937,8 @@
         <java.awt.Point x="3.8" y="0.9"/>
       </points>
       <bodyColor reference="../../org.diylc.components.connectivity.TraceCut[4]/fillColor"/>
-      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
-      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <borderColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
+      <labelColor reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <leadColor reference="../../org.diylc.components.connectivity.Jumper[11]/leadColor"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
@@ -4057,7 +4063,7 @@
       <name>W1</name>
       <alpha>127</alpha>
       <controlPoints>
-        <java.awt.Point x="2.8" y="1.9"/>
+        <java.awt.Point x="3.4" y="1.9"/>
         <java.awt.Point x="3.3" y="1.9"/>
         <java.awt.Point x="3.8" y="2.1"/>
         <java.awt.Point x="4.1" y="3.4"/>
@@ -4075,9 +4081,9 @@
       <name>W2</name>
       <alpha>127</alpha>
       <controlPoints>
-        <java.awt.Point x="2.8" y="2.0"/>
-        <java.awt.Point x="3.3" y="2.0"/>
-        <java.awt.Point x="3.7" y="2.2"/>
+        <java.awt.Point x="3.4" y="2.0"/>
+        <java.awt.Point x="3.6" y="2.2"/>
+        <java.awt.Point x="3.8" y="2.5"/>
         <java.awt.Point x="4.1" y="3.5"/>
       </controlPoints>
       <color>
@@ -4093,8 +4099,8 @@
       <name>W3</name>
       <alpha>127</alpha>
       <controlPoints>
-        <java.awt.Point x="2.8" y="2.1"/>
-        <java.awt.Point x="3.3" y="2.1"/>
+        <java.awt.Point x="3.4" y="2.1"/>
+        <java.awt.Point x="3.6" y="2.3"/>
         <java.awt.Point x="3.7" y="2.4"/>
         <java.awt.Point x="4.1" y="3.6"/>
       </controlPoints>
@@ -4106,7 +4112,7 @@
       <name>W4</name>
       <alpha>127</alpha>
       <controlPoints>
-        <java.awt.Point x="2.8" y="1.8"/>
+        <java.awt.Point x="3.4" y="1.8"/>
         <java.awt.Point x="3.3" y="1.8"/>
         <java.awt.Point x="3.9" y="2.1"/>
         <java.awt.Point x="4.1" y="3.3"/>
@@ -4124,7 +4130,7 @@
       <name>W5</name>
       <alpha>127</alpha>
       <controlPoints>
-        <java.awt.Point x="2.8" y="1.7"/>
+        <java.awt.Point x="3.4" y="1.7"/>
         <java.awt.Point x="3.3" y="1.7"/>
         <java.awt.Point x="4.1" y="2.2"/>
         <java.awt.Point x="4.1" y="3.2"/>
@@ -4136,27 +4142,15 @@
     <org.diylc.components.misc.Label>
       <name>L1</name>
       <point x="0.1" y="1.8"/>
-      <text>9VAC</text>
+      <text>9VAC1</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4164,8 +4158,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4187,27 +4193,15 @@
     <org.diylc.components.misc.Label>
       <name>L1</name>
       <point x="0.1" y="1.9"/>
-      <text>GND</text>
+      <text>9VAC2</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4215,8 +4209,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4232,28 +4238,16 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="2.7" y="1.9"/>
+      <point x="3.3" y="1.9"/>
       <text>GND</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4261,8 +4255,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4283,23 +4289,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4307,8 +4301,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4329,23 +4335,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4353,8 +4347,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4375,23 +4381,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4399,8 +4393,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4421,23 +4427,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4445,8 +4439,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4462,28 +4468,16 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="2.7" y="2.1"/>
+      <point x="3.3" y="2.1"/>
       <text>-9V</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4491,8 +4485,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4508,28 +4514,16 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="2.7" y="2.0"/>
+      <point x="3.3" y="2.0"/>
       <text>-5V</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4537,8 +4531,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4554,28 +4560,16 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="2.7" y="1.7"/>
+      <point x="3.3" y="1.7"/>
       <text>+9V</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4583,8 +4577,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4605,28 +4611,16 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="2.7" y="1.8"/>
+      <point x="3.3" y="1.8"/>
       <text>+5V</text>
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4634,8 +4628,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4661,23 +4667,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4685,8 +4679,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4712,23 +4718,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4736,8 +4730,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4758,23 +4764,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4782,8 +4776,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4804,23 +4810,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4828,8 +4822,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4855,23 +4861,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4879,8 +4873,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4906,23 +4912,11 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>family</awt-text-attribute>
-            <string>Tahoma</string>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>tracking</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -4930,8 +4924,20 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
+            <awt-text-attribute>width</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>family</awt-text-attribute>
+            <string>Tahoma</string>
+          </entry>
+          <entry>
+            <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -4939,7 +4945,7 @@
           </entry>
         </attributes>
       </font>
-      <color reference="../../org.diylc.components.connectivity.SolderPad[3]/color"/>
+      <color reference="../../org.diylc.components.connectivity.SolderPad[2]/color"/>
       <center>false</center>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
