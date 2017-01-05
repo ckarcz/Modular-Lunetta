@@ -15,7 +15,7 @@ Warning - Although most of these circuits are pretty simple, this is a ambitious
 
 Who - I'm a software developer who has a big love for music and a long time interest in diy electronics (but thought it out of my league). Anyway around 2012 I took the leap and brought the two together and have learned a lot since then. But I'm still learning!
 
-What is a Lunetta!? - Stanely Lunetta was an expirimental musiscian who is thought to be the first to popularize using cheap digital logic chips to create abstract avant garde drones, sequences, and the like. Thus lunettas are electroncis instruments and tools created using (mostly) digital logic chips.
+What is a Lunetta!? - Stanely Lunetta was an classical+expirimental musiscian who is thought to be the first to popularize using cheap digital logic chips to create avant garde music, drones, sequences, and the like. Thus lunettas are electronic instruments and tools created using (mostly) digital logic chips.
 
 Why - This project is a way for me to increase my synth diy knowledge and experience with a large scale project requiring planning, designing, building, finishing, trouble shooting, and more, at a larger scale, to ready myself for all the more complex full-diy analog modular synth world.
 
